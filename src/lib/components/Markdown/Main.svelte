@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     import { base } from '$app/paths';
     import SvelteMarkdown from 'svelte-markdown';
     import ImageRenderer from './renderers/Image.svelte';
