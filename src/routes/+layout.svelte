@@ -1,8 +1,12 @@
+<script lang="ts">
+    import { base } from '$app/paths';
+</script>
+
 <header>
     <h1>P5+Svelte template</h1>
 
     <nav>
-        <a href="/">Home</a> |
+        <a href="{base}/">Home</a> |
     </nav>
 </header>
 
